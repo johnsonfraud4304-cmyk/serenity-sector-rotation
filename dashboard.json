@@ -1,0 +1,170 @@
+{
+  "alerts": [
+    {
+      "level": "🔴 强买",
+      "sector": "新能源车",
+      "reason": "RSI=20 极度超卖（历史最低5%区间）",
+      "action": "立即建仓20%",
+      "priority": 1
+    },
+    {
+      "level": "🔴 强买",
+      "sector": "医疗",
+      "reason": "RSI=5 极度超卖（历史最低5%区间）",
+      "action": "立即建仓20%",
+      "priority": 1
+    },
+    {
+      "level": "🔴 强买",
+      "sector": "钢铁",
+      "reason": "RSI=18 极度超卖（历史最低5%区间）",
+      "action": "立即建仓20%",
+      "priority": 1
+    },
+    {
+      "level": "🔴 强买",
+      "sector": "航天",
+      "reason": "RSI=20 极度超卖（历史最低5%区间）",
+      "action": "立即建仓20%",
+      "priority": 1
+    },
+    {
+      "level": "🟡 买",
+      "sector": "家电",
+      "reason": "RSI=29 超卖区",
+      "action": "分批建仓10%",
+      "priority": 2
+    },
+    {
+      "level": "🟡 买",
+      "sector": "计算机",
+      "reason": "RSI=21 超卖区",
+      "action": "分批建仓10%",
+      "priority": 2
+    },
+    {
+      "level": "🟡 买",
+      "sector": "机器人",
+      "reason": "RSI=30 超卖区",
+      "action": "分批建仓10%",
+      "priority": 2
+    },
+    {
+      "level": "🟡 买",
+      "sector": "新能源",
+      "reason": "RSI=22 超卖区",
+      "action": "分批建仓10%",
+      "priority": 2
+    },
+    {
+      "level": "🟡 买",
+      "sector": "光伏",
+      "reason": "RSI=27 超卖区",
+      "action": "分批建仓10%",
+      "priority": 2
+    },
+    {
+      "level": "🟡 买",
+      "sector": "电池",
+      "reason": "RSI=24 超卖区",
+      "action": "分批建仓10%",
+      "priority": 2
+    },
+    {
+      "level": "🟡 买",
+      "sector": "储能",
+      "reason": "RSI=22 超卖区",
+      "action": "分批建仓10%",
+      "priority": 2
+    },
+    {
+      "level": "🟡 买",
+      "sector": "地产",
+      "reason": "RSI=21 超卖区",
+      "action": "分批建仓10%",
+      "priority": 2
+    },
+    {
+      "level": "🟡 买",
+      "sector": "创新药",
+      "reason": "RSI=25 超卖区",
+      "action": "分批建仓10%",
+      "priority": 2
+    },
+    {
+      "level": "🟡 买",
+      "sector": "基建",
+      "reason": "RSI=27 超卖区",
+      "action": "分批建仓10%",
+      "priority": 2
+    },
+    {
+      "level": "🟡 买",
+      "sector": "制造",
+      "reason": "RSI=24 超卖区",
+      "action": "分批建仓10%",
+      "priority": 2
+    }
+  ],
+  "market_temp": {
+    "fear_greed_index": 23,
+    "mood": "恐慌 🟦",
+    "advice": "市场偏冷，适合分批建仓",
+    "avg_rsi": 35.4,
+    "oversold_count": 17,
+    "overbought_count": 0,
+    "positive_mom_pct": 21,
+    "avg_score": 52
+  },
+  "phase_distribution": {
+    "震荡期": 5,
+    "下降期": 15,
+    "底部区": 13,
+    "上升期": 7,
+    "反弹期": 2
+  },
+  "cross_market": [
+    {
+      "pair": "半导体 vs 纳斯达克",
+      "a_mom": 0.57,
+      "b_mom": 2.39,
+      "signal": "同向强化"
+    },
+    {
+      "pair": "消费 vs 白酒",
+      "a_mom": -9.6,
+      "b_mom": -8.72,
+      "signal": "同向强化"
+    },
+    {
+      "pair": "新能源 vs 光伏",
+      "a_mom": -14.39,
+      "b_mom": -12.65,
+      "signal": "同向强化"
+    }
+  ],
+  "action_summary": {
+    "buy": [
+      {
+        "name": "医疗",
+        "score": 73,
+        "rsi": 4.9,
+        "reason": "评分73 RSI=5"
+      },
+      {
+        "name": "钢铁",
+        "score": 73,
+        "rsi": 18.5,
+        "reason": "评分73 RSI=18"
+      },
+      {
+        "name": "基建",
+        "score": 73,
+        "rsi": 26.9,
+        "reason": "评分73 RSI=27"
+      }
+    ],
+    "sell": [],
+    "hold_count": 39
+  }
+}

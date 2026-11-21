@@ -1,0 +1,9 @@
+# 核心（抓行情、算指标、跑服务、回测）
+numpy>=1.24
+pytz>=2023.3
+
+# LSTM 预测（可选：不装也能用界面，只是不能训练/推理）
+torch>=2.0
+
+# macOS 原生窗口（仅 Darwin 需要）
+pywebview>=4.4; sys_platform == "darwin"

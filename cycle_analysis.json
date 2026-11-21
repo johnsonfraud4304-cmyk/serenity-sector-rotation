@@ -1,0 +1,3459 @@
+{
+  "上证50": {
+    "methods": {
+      "burg": [
+        {
+          "period": 61.1,
+          "power": 441.4,
+          "relative_power": 1.0
+        },
+        {
+          "period": 12.8,
+          "power": 65.3,
+          "relative_power": 0.148
+        }
+      ],
+      "burg_primary": {
+        "period": 61.1,
+        "power": 441.4,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 50.2,
+        "std_period": 12.7,
+        "stability": 0.747,
+        "history": [
+          {
+            "period": 40,
+            "strength": 0.237
+          },
+          {
+            "period": 35,
+            "strength": 0.262
+          },
+          {
+            "period": 35,
+            "strength": 0.375
+          },
+          {
+            "period": 51,
+            "strength": 0.4
+          },
+          {
+            "period": 73,
+            "strength": 0.249
+          },
+          {
+            "period": 72,
+            "strength": 0.243
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 96.0,
+          "power": 807.3,
+          "relative_power": 1.0
+        },
+        {
+          "period": 48.0,
+          "power": 557.7,
+          "relative_power": 0.691
+        },
+        {
+          "period": 240.0,
+          "power": 416.7,
+          "relative_power": 0.516
+        }
+      ]
+    },
+    "consensus_period": 57.3,
+    "confidence": 0.537,
+    "cycle_stability": 0.747,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.804,
+    "next_sell_estimate": "约42个交易日后"
+  },
+  "中药": {
+    "methods": {
+      "acf": [
+        {
+          "period": 105.0,
+          "acf_value": 0.0911,
+          "confidence": 1.02,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 105.0,
+        "acf_value": 0.0911,
+        "confidence": 1.02,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 87.0,
+          "power": 455.8,
+          "relative_power": 1.0
+        },
+        {
+          "period": 13.2,
+          "power": 131.6,
+          "relative_power": 0.289
+        }
+      ],
+      "burg_primary": {
+        "period": 87.0,
+        "power": 455.8,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 42.9,
+        "std_period": 15.5,
+        "stability": 0.639,
+        "history": [
+          {
+            "period": 54,
+            "strength": 0.256
+          },
+          {
+            "period": 53,
+            "strength": 0.411
+          },
+          {
+            "period": 52,
+            "strength": 0.344
+          },
+          {
+            "period": 50,
+            "strength": 0.307
+          },
+          {
+            "period": 52,
+            "strength": 0.287
+          },
+          {
+            "period": 65,
+            "strength": 0.272
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 159.7,
+          "power": 1122.5,
+          "relative_power": 1.0
+        },
+        {
+          "period": 59.9,
+          "power": 492.4,
+          "relative_power": 0.439
+        },
+        {
+          "period": 95.8,
+          "power": 454.7,
+          "relative_power": 0.405
+        }
+      ]
+    },
+    "consensus_period": 87.3,
+    "confidence": 0.918,
+    "cycle_stability": 0.639,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.207,
+    "next_buy_estimate": "约8个交易日后"
+  },
+  "中证1000": {
+    "methods": {
+      "burg": [
+        {
+          "period": 65.4,
+          "power": 1493.2,
+          "relative_power": 1.0
+        },
+        {
+          "period": 12.9,
+          "power": 147.2,
+          "relative_power": 0.099
+        }
+      ],
+      "burg_primary": {
+        "period": 65.4,
+        "power": 1493.2,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 34.3,
+        "std_period": 25.8,
+        "stability": 0.249,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.265
+          },
+          {
+            "period": 15,
+            "strength": 0.397
+          },
+          {
+            "period": 15,
+            "strength": 0.396
+          },
+          {
+            "period": 89,
+            "strength": 0.231
+          },
+          {
+            "period": 65,
+            "strength": 0.319
+          },
+          {
+            "period": 68,
+            "strength": 0.223
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 96.0,
+          "power": 3259.0,
+          "relative_power": 1.0
+        },
+        {
+          "period": 160.0,
+          "power": 1900.5,
+          "relative_power": 0.583
+        },
+        {
+          "period": 60.0,
+          "power": 1335.2,
+          "relative_power": 0.41
+        }
+      ]
+    },
+    "consensus_period": 60.7,
+    "confidence": 0.412,
+    "cycle_stability": 0.249,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.376,
+    "next_sell_estimate": "约45个交易日后"
+  },
+  "中证500": {
+    "methods": {
+      "acf": [
+        {
+          "period": 86.9,
+          "acf_value": 0.1104,
+          "confidence": 1.23,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 86.9,
+        "acf_value": 0.1104,
+        "confidence": 1.23,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 72.5,
+          "power": 1465.8,
+          "relative_power": 1.0
+        },
+        {
+          "period": 13.0,
+          "power": 144.1,
+          "relative_power": 0.098
+        }
+      ],
+      "burg_primary": {
+        "period": 72.5,
+        "power": 1465.8,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 23.1,
+        "std_period": 17.6,
+        "stability": 0.24,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.487
+          },
+          {
+            "period": 15,
+            "strength": 0.235
+          },
+          {
+            "period": 15,
+            "strength": 0.281
+          },
+          {
+            "period": 15,
+            "strength": 0.228
+          },
+          {
+            "period": 15,
+            "strength": 0.24
+          },
+          {
+            "period": 65,
+            "strength": 0.236
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 96.0,
+          "power": 2963.3,
+          "relative_power": 1.0
+        },
+        {
+          "period": 160.0,
+          "power": 1463.4,
+          "relative_power": 0.494
+        },
+        {
+          "period": 60.0,
+          "power": 1089.0,
+          "relative_power": 0.367
+        }
+      ]
+    },
+    "consensus_period": 77.1,
+    "confidence": 0.902,
+    "cycle_stability": 0.24,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.0,
+    "next_sell_estimate": "约57个交易日后"
+  },
+  "人工智能": {
+    "methods": {
+      "acf": [
+        {
+          "period": 81.8,
+          "acf_value": 0.1478,
+          "confidence": 1.65,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 81.8,
+        "acf_value": 0.1478,
+        "confidence": 1.65,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 73.7,
+          "power": 3399.6,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 73.7,
+        "power": 3399.6,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 25.4,
+        "std_period": 20.1,
+        "stability": 0.211,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.338
+          },
+          {
+            "period": 15,
+            "strength": 0.405
+          },
+          {
+            "period": 15,
+            "strength": 0.327
+          },
+          {
+            "period": 65,
+            "strength": 0.236
+          },
+          {
+            "period": 15,
+            "strength": 0.209
+          },
+          {
+            "period": 15,
+            "strength": 0.297
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 95.8,
+          "power": 7125.5,
+          "relative_power": 1.0
+        },
+        {
+          "period": 159.7,
+          "power": 3697.7,
+          "relative_power": 0.519
+        },
+        {
+          "period": 43.5,
+          "power": 1685.6,
+          "relative_power": 0.237
+        }
+      ]
+    },
+    "consensus_period": 76.3,
+    "confidence": 1.0,
+    "cycle_stability": 0.211,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.065,
+    "next_sell_estimate": "约57个交易日后"
+  },
+  "保险": {
+    "methods": {
+      "time_varying": {
+        "avg_period": 33.9,
+        "std_period": 21.7,
+        "stability": 0.359,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.23
+          },
+          {
+            "period": 43,
+            "strength": 0.303
+          },
+          {
+            "period": 42,
+            "strength": 0.343
+          },
+          {
+            "period": 15,
+            "strength": 0.269
+          },
+          {
+            "period": 15,
+            "strength": 0.223
+          },
+          {
+            "period": 74,
+            "strength": 0.258
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 96.0,
+          "power": 3998.3,
+          "relative_power": 1.0
+        },
+        {
+          "period": 160.0,
+          "power": 3064.1,
+          "relative_power": 0.766
+        },
+        {
+          "period": 48.0,
+          "power": 1345.9,
+          "relative_power": 0.337
+        }
+      ]
+    },
+    "consensus_period": 33.9,
+    "confidence": 0.09,
+    "cycle_stability": 0.359,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "next_buy_estimate": "约3个交易日后"
+  },
+  "储能": {
+    "methods": {
+      "time_varying": {
+        "avg_period": 26.4,
+        "std_period": 17.5,
+        "stability": 0.334,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.252
+          },
+          {
+            "period": 15,
+            "strength": 0.351
+          },
+          {
+            "period": 15,
+            "strength": 0.404
+          },
+          {
+            "period": 44,
+            "strength": 0.24
+          },
+          {
+            "period": 36,
+            "strength": 0.376
+          },
+          {
+            "period": 37,
+            "strength": 0.431
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 239.5,
+          "power": 3948.0,
+          "relative_power": 1.0
+        },
+        {
+          "period": 119.8,
+          "power": 2470.2,
+          "relative_power": 0.626
+        },
+        {
+          "period": 79.8,
+          "power": 1962.3,
+          "relative_power": 0.497
+        }
+      ]
+    },
+    "consensus_period": 26.4,
+    "confidence": 0.084,
+    "cycle_stability": 0.334,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "next_buy_estimate": "约2个交易日后"
+  },
+  "光伏": {
+    "methods": {
+      "burg": [
+        {
+          "period": 75.4,
+          "power": 1824.1,
+          "relative_power": 0.972
+        },
+        {
+          "period": 13.4,
+          "power": 236.3,
+          "relative_power": 0.126
+        }
+      ],
+      "burg_primary": {
+        "period": 75.4,
+        "power": 1824.1,
+        "relative_power": 0.972
+      },
+      "time_varying": {
+        "avg_period": 40.2,
+        "std_period": 24.7,
+        "stability": 0.385,
+        "history": [
+          {
+            "period": 35,
+            "strength": 0.201
+          },
+          {
+            "period": 37,
+            "strength": 0.285
+          },
+          {
+            "period": 75,
+            "strength": 0.2
+          },
+          {
+            "period": 55,
+            "strength": 0.209
+          },
+          {
+            "period": 78,
+            "strength": 0.24
+          },
+          {
+            "period": 73,
+            "strength": 0.239
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 239.5,
+          "power": 4453.3,
+          "relative_power": 1.0
+        },
+        {
+          "period": 79.8,
+          "power": 3269.4,
+          "relative_power": 0.734
+        },
+        {
+          "period": 119.8,
+          "power": 1811.1,
+          "relative_power": 0.407
+        }
+      ]
+    },
+    "consensus_period": 67.6,
+    "confidence": 0.436,
+    "cycle_stability": 0.385,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.391,
+    "next_sell_estimate": "约50个交易日后"
+  },
+  "军工": {
+    "methods": {
+      "burg": [
+        {
+          "period": 56.1,
+          "power": 2037.5,
+          "relative_power": 1.0
+        },
+        {
+          "period": 12.7,
+          "power": 184.1,
+          "relative_power": 0.09
+        }
+      ],
+      "burg_primary": {
+        "period": 56.1,
+        "power": 2037.5,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 29.3,
+        "std_period": 20.0,
+        "stability": 0.318,
+        "history": [
+          {
+            "period": 58,
+            "strength": 0.405
+          },
+          {
+            "period": 36,
+            "strength": 0.21
+          },
+          {
+            "period": 64,
+            "strength": 0.234
+          },
+          {
+            "period": 15,
+            "strength": 0.21
+          },
+          {
+            "period": 15,
+            "strength": 0.218
+          },
+          {
+            "period": 15,
+            "strength": 0.246
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 95.8,
+          "power": 4659.3,
+          "relative_power": 1.0
+        },
+        {
+          "period": 59.9,
+          "power": 2977.4,
+          "relative_power": 0.639
+        },
+        {
+          "period": 159.7,
+          "power": 2851.4,
+          "relative_power": 0.612
+        }
+      ]
+    },
+    "consensus_period": 51.1,
+    "confidence": 0.43,
+    "cycle_stability": 0.318,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.372,
+    "next_sell_estimate": "约38个交易日后"
+  },
+  "创业板": {
+    "methods": {
+      "acf": [
+        {
+          "period": 142.8,
+          "acf_value": 0.0992,
+          "confidence": 1.11,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 142.8,
+        "acf_value": 0.0992,
+        "confidence": 1.11,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 87.8,
+          "power": 2152.1,
+          "relative_power": 1.0
+        },
+        {
+          "period": 13.1,
+          "power": 302.9,
+          "relative_power": 0.141
+        }
+      ],
+      "burg_primary": {
+        "period": 87.8,
+        "power": 2152.1,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 28.0,
+        "std_period": 19.5,
+        "stability": 0.302,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.211
+          },
+          {
+            "period": 15,
+            "strength": 0.304
+          },
+          {
+            "period": 15,
+            "strength": 0.396
+          },
+          {
+            "period": 15,
+            "strength": 0.359
+          },
+          {
+            "period": 53,
+            "strength": 0.218
+          },
+          {
+            "period": 15,
+            "strength": 0.352
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 95.8,
+          "power": 3837.0,
+          "relative_power": 1.0
+        },
+        {
+          "period": 239.5,
+          "power": 3597.8,
+          "relative_power": 0.938
+        },
+        {
+          "period": 47.9,
+          "power": 1957.5,
+          "relative_power": 0.51
+        }
+      ]
+    },
+    "consensus_period": 110.7,
+    "confidence": 0.87,
+    "cycle_stability": 0.302,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.0,
+    "next_sell_estimate": "约83个交易日后"
+  },
+  "创新药": {
+    "methods": {
+      "burg": [
+        {
+          "period": 54.6,
+          "power": 869.9,
+          "relative_power": 0.74
+        },
+        {
+          "period": 12.9,
+          "power": 164.6,
+          "relative_power": 0.14
+        }
+      ],
+      "burg_primary": {
+        "period": 54.6,
+        "power": 869.9,
+        "relative_power": 0.74
+      },
+      "time_varying": {
+        "avg_period": 42.5,
+        "std_period": 21.7,
+        "stability": 0.489,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.365
+          },
+          {
+            "period": 15,
+            "strength": 0.339
+          },
+          {
+            "period": 78,
+            "strength": 0.285
+          },
+          {
+            "period": 51,
+            "strength": 0.333
+          },
+          {
+            "period": 53,
+            "strength": 0.23
+          },
+          {
+            "period": 61,
+            "strength": 0.311
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 159.7,
+          "power": 1983.6,
+          "relative_power": 1.0
+        },
+        {
+          "period": 95.8,
+          "power": 1386.2,
+          "relative_power": 0.699
+        },
+        {
+          "period": 68.4,
+          "power": 1353.7,
+          "relative_power": 0.682
+        }
+      ]
+    },
+    "consensus_period": 50.7,
+    "confidence": 0.381,
+    "cycle_stability": 0.489,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.751,
+    "next_buy_estimate": "约5个交易日后"
+  },
+  "制造": {
+    "methods": {
+      "burg": [
+        {
+          "period": 58.5,
+          "power": 1449.1,
+          "relative_power": 1.0
+        },
+        {
+          "period": 13.0,
+          "power": 175.9,
+          "relative_power": 0.121
+        }
+      ],
+      "burg_primary": {
+        "period": 58.5,
+        "power": 1449.1,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 37.6,
+        "std_period": 26.6,
+        "stability": 0.293,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.36
+          },
+          {
+            "period": 15,
+            "strength": 0.259
+          },
+          {
+            "period": 91,
+            "strength": 0.251
+          },
+          {
+            "period": 15,
+            "strength": 0.199
+          },
+          {
+            "period": 65,
+            "strength": 0.285
+          },
+          {
+            "period": 69,
+            "strength": 0.205
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 95.8,
+          "power": 2925.7,
+          "relative_power": 1.0
+        },
+        {
+          "period": 159.7,
+          "power": 2350.0,
+          "relative_power": 0.803
+        },
+        {
+          "period": 59.9,
+          "power": 1748.4,
+          "relative_power": 0.598
+        }
+      ]
+    },
+    "consensus_period": 54.9,
+    "confidence": 0.423,
+    "cycle_stability": 0.293,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.565,
+    "next_sell_estimate": "约41个交易日后"
+  },
+  "化工": {
+    "methods": {
+      "burg": [
+        {
+          "period": 13.1,
+          "power": 165.5,
+          "relative_power": 0.118
+        }
+      ],
+      "burg_primary": {
+        "period": 13.1,
+        "power": 165.5,
+        "relative_power": 0.118
+      },
+      "time_varying": {
+        "avg_period": 30.8,
+        "std_period": 19.4,
+        "stability": 0.371,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.237
+          },
+          {
+            "period": 15,
+            "strength": 0.197
+          },
+          {
+            "period": 38,
+            "strength": 0.22
+          },
+          {
+            "period": 38,
+            "strength": 0.298
+          },
+          {
+            "period": 39,
+            "strength": 0.232
+          },
+          {
+            "period": 63,
+            "strength": 0.236
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 239.5,
+          "power": 2090.1,
+          "relative_power": 1.0
+        },
+        {
+          "period": 95.8,
+          "power": 1319.3,
+          "relative_power": 0.631
+        },
+        {
+          "period": 53.2,
+          "power": 943.7,
+          "relative_power": 0.452
+        }
+      ]
+    },
+    "consensus_period": 25.3,
+    "confidence": 0.134,
+    "cycle_stability": 0.371,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.194,
+    "next_buy_estimate": "约2个交易日后"
+  },
+  "医疗": {
+    "methods": {
+      "acf": [
+        {
+          "period": 89.8,
+          "acf_value": 0.1157,
+          "confidence": 1.29,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 89.8,
+        "acf_value": 0.1157,
+        "confidence": 1.29,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 63.1,
+          "power": 1736.1,
+          "relative_power": 1.0
+        },
+        {
+          "period": 13.1,
+          "power": 244.4,
+          "relative_power": 0.141
+        }
+      ],
+      "burg_primary": {
+        "period": 63.1,
+        "power": 1736.1,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 40.2,
+        "std_period": 26.0,
+        "stability": 0.353,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.319
+          },
+          {
+            "period": 15,
+            "strength": 0.507
+          },
+          {
+            "period": 15,
+            "strength": 0.475
+          },
+          {
+            "period": 15,
+            "strength": 0.213
+          },
+          {
+            "period": 64,
+            "strength": 0.24
+          },
+          {
+            "period": 62,
+            "strength": 0.25
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 95.8,
+          "power": 2835.7,
+          "relative_power": 1.0
+        },
+        {
+          "period": 159.7,
+          "power": 1921.2,
+          "relative_power": 0.677
+        },
+        {
+          "period": 68.4,
+          "power": 1586.1,
+          "relative_power": 0.559
+        }
+      ]
+    },
+    "consensus_period": 75.4,
+    "confidence": 0.954,
+    "cycle_stability": 0.353,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.229,
+    "next_buy_estimate": "约7个交易日后"
+  },
+  "医药": {
+    "methods": {
+      "acf": [
+        {
+          "period": 141.9,
+          "acf_value": 0.0898,
+          "confidence": 1.0,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 141.9,
+        "acf_value": 0.0898,
+        "confidence": 1.0,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 80.4,
+          "power": 771.6,
+          "relative_power": 0.96
+        },
+        {
+          "period": 13.0,
+          "power": 169.0,
+          "relative_power": 0.21
+        }
+      ],
+      "burg_primary": {
+        "period": 80.4,
+        "power": 771.6,
+        "relative_power": 0.96
+      },
+      "time_varying": {
+        "avg_period": 46.9,
+        "std_period": 20.7,
+        "stability": 0.558,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.443
+          },
+          {
+            "period": 15,
+            "strength": 0.294
+          },
+          {
+            "period": 78,
+            "strength": 0.282
+          },
+          {
+            "period": 55,
+            "strength": 0.282
+          },
+          {
+            "period": 62,
+            "strength": 0.277
+          },
+          {
+            "period": 62,
+            "strength": 0.3
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 159.7,
+          "power": 1490.5,
+          "relative_power": 1.0
+        },
+        {
+          "period": 95.8,
+          "power": 1136.0,
+          "relative_power": 0.762
+        },
+        {
+          "period": 68.4,
+          "power": 1103.2,
+          "relative_power": 0.74
+        }
+      ]
+    },
+    "consensus_period": 103.2,
+    "confidence": 0.876,
+    "cycle_stability": 0.558,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.0,
+    "next_buy_estimate": "约10个交易日后"
+  },
+  "半导体": {
+    "methods": {
+      "acf": [
+        {
+          "period": 81.1,
+          "acf_value": 0.1987,
+          "confidence": 2.22,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 81.1,
+        "acf_value": 0.1987,
+        "confidence": 2.22,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 69.2,
+          "power": 4989.2,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 69.2,
+        "power": 4989.2,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 27.1,
+        "std_period": 20.7,
+        "stability": 0.236,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.286
+          },
+          {
+            "period": 65,
+            "strength": 0.312
+          },
+          {
+            "period": 15,
+            "strength": 0.266
+          },
+          {
+            "period": 15,
+            "strength": 0.218
+          },
+          {
+            "period": 65,
+            "strength": 0.281
+          },
+          {
+            "period": 15,
+            "strength": 0.305
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 96.0,
+          "power": 9726.4,
+          "relative_power": 1.0
+        },
+        {
+          "period": 60.0,
+          "power": 2936.8,
+          "relative_power": 0.302
+        },
+        {
+          "period": 160.0,
+          "power": 2419.8,
+          "relative_power": 0.249
+        }
+      ]
+    },
+    "consensus_period": 75.4,
+    "confidence": 1.0,
+    "cycle_stability": 0.236,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.087,
+    "next_sell_estimate": "约56个交易日后"
+  },
+  "地产": {
+    "methods": {
+      "time_varying": {
+        "avg_period": 24.8,
+        "std_period": 19.4,
+        "stability": 0.216,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.363
+          },
+          {
+            "period": 15,
+            "strength": 0.229
+          },
+          {
+            "period": 64,
+            "strength": 0.228
+          },
+          {
+            "period": 63,
+            "strength": 0.285
+          },
+          {
+            "period": 15,
+            "strength": 0.217
+          },
+          {
+            "period": 64,
+            "strength": 0.346
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 119.8,
+          "power": 2900.5,
+          "relative_power": 1.0
+        },
+        {
+          "period": 239.5,
+          "power": 2659.8,
+          "relative_power": 0.917
+        },
+        {
+          "period": 59.9,
+          "power": 1765.1,
+          "relative_power": 0.609
+        }
+      ]
+    },
+    "consensus_period": 24.8,
+    "confidence": 0.054,
+    "cycle_stability": 0.216,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "next_buy_estimate": "约2个交易日后"
+  },
+  "基建": {
+    "methods": {
+      "acf": [
+        {
+          "period": 88.1,
+          "acf_value": 0.1381,
+          "confidence": 1.54,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 88.1,
+        "acf_value": 0.1381,
+        "confidence": 1.54,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 51.1,
+          "power": 639.8,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 51.1,
+        "power": 639.8,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 54.5,
+        "std_period": 18.5,
+        "stability": 0.66,
+        "history": [
+          {
+            "period": 55,
+            "strength": 0.329
+          },
+          {
+            "period": 52,
+            "strength": 0.197
+          },
+          {
+            "period": 52,
+            "strength": 0.219
+          },
+          {
+            "period": 50,
+            "strength": 0.258
+          },
+          {
+            "period": 78,
+            "strength": 0.219
+          },
+          {
+            "period": 79,
+            "strength": 0.206
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 47.9,
+          "power": 1325.9,
+          "relative_power": 1.0
+        },
+        {
+          "period": 95.8,
+          "power": 1107.7,
+          "relative_power": 0.835
+        },
+        {
+          "period": 159.7,
+          "power": 1001.4,
+          "relative_power": 0.755
+        }
+      ]
+    },
+    "consensus_period": 71.7,
+    "confidence": 1.0,
+    "cycle_stability": 0.66,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.427,
+    "next_buy_estimate": "约7个交易日后"
+  },
+  "央企改革": {
+    "methods": {
+      "acf": [
+        {
+          "period": 86.3,
+          "acf_value": 0.1179,
+          "confidence": 1.32,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 86.3,
+        "acf_value": 0.1179,
+        "confidence": 1.32,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 54.9,
+          "power": 509.0,
+          "relative_power": 1.0
+        },
+        {
+          "period": 13.0,
+          "power": 59.6,
+          "relative_power": 0.117
+        }
+      ],
+      "burg_primary": {
+        "period": 54.9,
+        "power": 509.0,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 50.6,
+        "std_period": 17.3,
+        "stability": 0.659,
+        "history": [
+          {
+            "period": 50,
+            "strength": 0.304
+          },
+          {
+            "period": 50,
+            "strength": 0.323
+          },
+          {
+            "period": 51,
+            "strength": 0.26
+          },
+          {
+            "period": 78,
+            "strength": 0.219
+          },
+          {
+            "period": 69,
+            "strength": 0.22
+          },
+          {
+            "period": 34,
+            "strength": 0.22
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 79.8,
+          "power": 877.6,
+          "relative_power": 1.0
+        },
+        {
+          "period": 47.9,
+          "power": 678.4,
+          "relative_power": 0.773
+        },
+        {
+          "period": 159.7,
+          "power": 599.3,
+          "relative_power": 0.683
+        }
+      ]
+    },
+    "consensus_period": 70.1,
+    "confidence": 1.0,
+    "cycle_stability": 0.659,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.442,
+    "next_buy_estimate": "约7个交易日后"
+  },
+  "家电": {
+    "methods": {
+      "burg": [
+        {
+          "period": 54.5,
+          "power": 823.2,
+          "relative_power": 0.822
+        },
+        {
+          "period": 13.5,
+          "power": 96.2,
+          "relative_power": 0.096
+        }
+      ],
+      "burg_primary": {
+        "period": 54.5,
+        "power": 823.2,
+        "relative_power": 0.822
+      },
+      "time_varying": {
+        "avg_period": 24.5,
+        "std_period": 16.5,
+        "stability": 0.329,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.346
+          },
+          {
+            "period": 15,
+            "strength": 0.373
+          },
+          {
+            "period": 15,
+            "strength": 0.207
+          },
+          {
+            "period": 15,
+            "strength": 0.286
+          },
+          {
+            "period": 15,
+            "strength": 0.407
+          },
+          {
+            "period": 70,
+            "strength": 0.234
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 95.8,
+          "power": 2007.5,
+          "relative_power": 1.0
+        },
+        {
+          "period": 239.5,
+          "power": 1273.4,
+          "relative_power": 0.634
+        },
+        {
+          "period": 47.9,
+          "power": 886.8,
+          "relative_power": 0.442
+        }
+      ]
+    },
+    "consensus_period": 47.8,
+    "confidence": 0.37,
+    "cycle_stability": 0.329,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.241,
+    "next_sell_estimate": "约35个交易日后"
+  },
+  "工业母机": {
+    "methods": {
+      "acf": [
+        {
+          "period": 83.8,
+          "acf_value": 0.1057,
+          "confidence": 1.18,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 83.8,
+        "acf_value": 0.1057,
+        "confidence": 1.18,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 66.6,
+          "power": 1840.1,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 66.6,
+        "power": 1840.1,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 29.4,
+        "std_period": 22.6,
+        "stability": 0.229,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.437
+          },
+          {
+            "period": 15,
+            "strength": 0.256
+          },
+          {
+            "period": 15,
+            "strength": 0.226
+          },
+          {
+            "period": 15,
+            "strength": 0.282
+          },
+          {
+            "period": 81,
+            "strength": 0.234
+          },
+          {
+            "period": 69,
+            "strength": 0.253
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 96.0,
+          "power": 3572.3,
+          "relative_power": 1.0
+        },
+        {
+          "period": 48.0,
+          "power": 2077.6,
+          "relative_power": 0.582
+        },
+        {
+          "period": 160.0,
+          "power": 1708.5,
+          "relative_power": 0.478
+        }
+      ]
+    },
+    "consensus_period": 73.4,
+    "confidence": 0.879,
+    "cycle_stability": 0.229,
+    "current_phase": "上升中",
+    "phase_progress": 50,
+    "method_agreement": 0.092,
+    "next_sell_estimate": "约36个交易日后"
+  },
+  "恒生科技": {
+    "methods": {
+      "acf": [
+        {
+          "period": 87.3,
+          "acf_value": 0.312,
+          "confidence": 3.48,
+          "significant": true
+        },
+        {
+          "period": 143.2,
+          "acf_value": 0.114,
+          "confidence": 1.27,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 87.3,
+        "acf_value": 0.312,
+        "confidence": 3.48,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 66.5,
+          "power": 1966.7,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 66.5,
+        "power": 1966.7,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 40.1,
+        "std_period": 26.7,
+        "stability": 0.335,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.206
+          },
+          {
+            "period": 48,
+            "strength": 0.208
+          },
+          {
+            "period": 15,
+            "strength": 0.318
+          },
+          {
+            "period": 15,
+            "strength": 0.312
+          },
+          {
+            "period": 65,
+            "strength": 0.292
+          },
+          {
+            "period": 64,
+            "strength": 0.223
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 79.8,
+          "power": 4914.3,
+          "relative_power": 1.0
+        },
+        {
+          "period": 47.9,
+          "power": 2352.4,
+          "relative_power": 0.479
+        },
+        {
+          "period": 28.2,
+          "power": 450.2,
+          "relative_power": 0.092
+        }
+      ]
+    },
+    "consensus_period": 81.1,
+    "confidence": 1.0,
+    "cycle_stability": 0.335,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.27,
+    "next_sell_estimate": "约60个交易日后"
+  },
+  "新能源": {
+    "methods": {
+      "burg": [
+        {
+          "period": 13.2,
+          "power": 239.5,
+          "relative_power": 0.128
+        }
+      ],
+      "burg_primary": {
+        "period": 13.2,
+        "power": 239.5,
+        "relative_power": 0.128
+      },
+      "time_varying": {
+        "avg_period": 32.9,
+        "std_period": 22.0,
+        "stability": 0.331,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.312
+          },
+          {
+            "period": 15,
+            "strength": 0.217
+          },
+          {
+            "period": 48,
+            "strength": 0.25
+          },
+          {
+            "period": 74,
+            "strength": 0.219
+          },
+          {
+            "period": 71,
+            "strength": 0.355
+          },
+          {
+            "period": 36,
+            "strength": 0.29
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 239.5,
+          "power": 4239.6,
+          "relative_power": 1.0
+        },
+        {
+          "period": 119.8,
+          "power": 2525.9,
+          "relative_power": 0.596
+        },
+        {
+          "period": 79.8,
+          "power": 2084.3,
+          "relative_power": 0.492
+        }
+      ]
+    },
+    "consensus_period": 26.0,
+    "confidence": 0.128,
+    "cycle_stability": 0.331,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.145,
+    "next_buy_estimate": "约2个交易日后"
+  },
+  "新能源车": {
+    "methods": {
+      "acf": [
+        {
+          "period": 141.9,
+          "acf_value": 0.1101,
+          "confidence": 1.23,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 141.9,
+        "acf_value": 0.1101,
+        "confidence": 1.23,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 74.0,
+          "power": 2029.2,
+          "relative_power": 1.0
+        },
+        {
+          "period": 13.1,
+          "power": 251.8,
+          "relative_power": 0.124
+        }
+      ],
+      "burg_primary": {
+        "period": 74.0,
+        "power": 2029.2,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 33.6,
+        "std_period": 22.6,
+        "stability": 0.329,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.24
+          },
+          {
+            "period": 15,
+            "strength": 0.322
+          },
+          {
+            "period": 15,
+            "strength": 0.34
+          },
+          {
+            "period": 45,
+            "strength": 0.271
+          },
+          {
+            "period": 69,
+            "strength": 0.252
+          },
+          {
+            "period": 69,
+            "strength": 0.32
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 119.8,
+          "power": 3439.0,
+          "relative_power": 1.0
+        },
+        {
+          "period": 239.5,
+          "power": 3296.7,
+          "relative_power": 0.959
+        },
+        {
+          "period": 79.8,
+          "power": 2625.2,
+          "relative_power": 0.763
+        }
+      ]
+    },
+    "consensus_period": 106.5,
+    "confidence": 0.924,
+    "cycle_stability": 0.329,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.0,
+    "next_buy_estimate": "约10个交易日后"
+  },
+  "有色": {
+    "methods": {
+      "acf": [
+        {
+          "period": 63.5,
+          "acf_value": 0.1538,
+          "confidence": 1.72,
+          "significant": true
+        },
+        {
+          "period": 25.2,
+          "acf_value": 0.1069,
+          "confidence": 1.2,
+          "significant": true
+        },
+        {
+          "period": 76.2,
+          "acf_value": 0.1019,
+          "confidence": 1.14,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 63.5,
+        "acf_value": 0.1538,
+        "confidence": 1.72,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 12.7,
+          "power": 298.4,
+          "relative_power": 0.127
+        }
+      ],
+      "burg_primary": {
+        "period": 12.7,
+        "power": 298.4,
+        "relative_power": 0.127
+      },
+      "time_varying": {
+        "avg_period": 31.4,
+        "std_period": 20.7,
+        "stability": 0.341,
+        "history": [
+          {
+            "period": 25,
+            "strength": 0.233
+          },
+          {
+            "period": 15,
+            "strength": 0.304
+          },
+          {
+            "period": 15,
+            "strength": 0.227
+          },
+          {
+            "period": 63,
+            "strength": 0.273
+          },
+          {
+            "period": 63,
+            "strength": 0.204
+          },
+          {
+            "period": 15,
+            "strength": 0.278
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 240.0,
+          "power": 2645.4,
+          "relative_power": 1.0
+        },
+        {
+          "period": 80.0,
+          "power": 2187.4,
+          "relative_power": 0.827
+        },
+        {
+          "period": 60.0,
+          "power": 1999.5,
+          "relative_power": 0.756
+        }
+      ]
+    },
+    "consensus_period": 57.4,
+    "confidence": 0.818,
+    "cycle_stability": 0.341,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.0,
+    "next_sell_estimate": "约43个交易日后"
+  },
+  "机器人": {
+    "methods": {
+      "burg": [
+        {
+          "period": 71.0,
+          "power": 2878.7,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 71.0,
+        "power": 2878.7,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 29.9,
+        "std_period": 22.7,
+        "stability": 0.243,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.332
+          },
+          {
+            "period": 15,
+            "strength": 0.248
+          },
+          {
+            "period": 15,
+            "strength": 0.275
+          },
+          {
+            "period": 15,
+            "strength": 0.214
+          },
+          {
+            "period": 69,
+            "strength": 0.293
+          },
+          {
+            "period": 15,
+            "strength": 0.244
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 95.8,
+          "power": 5955.7,
+          "relative_power": 1.0
+        },
+        {
+          "period": 159.7,
+          "power": 2365.7,
+          "relative_power": 0.397
+        },
+        {
+          "period": 59.9,
+          "power": 2100.7,
+          "relative_power": 0.353
+        }
+      ]
+    },
+    "consensus_period": 64.9,
+    "confidence": 0.411,
+    "cycle_stability": 0.243,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.185,
+    "next_sell_estimate": "约48个交易日后"
+  },
+  "沪深300": {
+    "methods": {
+      "burg": [
+        {
+          "period": 69.3,
+          "power": 603.4,
+          "relative_power": 1.0
+        },
+        {
+          "period": 12.9,
+          "power": 96.1,
+          "relative_power": 0.159
+        }
+      ],
+      "burg_primary": {
+        "period": 69.3,
+        "power": 603.4,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 46.9,
+        "std_period": 20.7,
+        "stability": 0.557,
+        "history": [
+          {
+            "period": 59,
+            "strength": 0.442
+          },
+          {
+            "period": 58,
+            "strength": 0.213
+          },
+          {
+            "period": 15,
+            "strength": 0.314
+          },
+          {
+            "period": 15,
+            "strength": 0.26
+          },
+          {
+            "period": 52,
+            "strength": 0.322
+          },
+          {
+            "period": 70,
+            "strength": 0.246
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 96.0,
+          "power": 1105.4,
+          "relative_power": 1.0
+        },
+        {
+          "period": 48.0,
+          "power": 753.8,
+          "relative_power": 0.682
+        },
+        {
+          "period": 240.0,
+          "power": 750.6,
+          "relative_power": 0.679
+        }
+      ]
+    },
+    "consensus_period": 62.9,
+    "confidence": 0.489,
+    "cycle_stability": 0.557,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.614,
+    "next_sell_estimate": "约47个交易日后"
+  },
+  "消费": {
+    "methods": {
+      "acf": [
+        {
+          "period": 103.6,
+          "acf_value": 0.2152,
+          "confidence": 2.4,
+          "significant": true
+        },
+        {
+          "period": 92.0,
+          "acf_value": 0.146,
+          "confidence": 1.63,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 103.6,
+        "acf_value": 0.2152,
+        "confidence": 2.4,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 87.9,
+          "power": 781.1,
+          "relative_power": 1.0
+        },
+        {
+          "period": 13.1,
+          "power": 173.7,
+          "relative_power": 0.222
+        }
+      ],
+      "burg_primary": {
+        "period": 87.9,
+        "power": 781.1,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 30.8,
+        "std_period": 21.6,
+        "stability": 0.296,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.249
+          },
+          {
+            "period": 16,
+            "strength": 0.269
+          },
+          {
+            "period": 83,
+            "strength": 0.211
+          },
+          {
+            "period": 38,
+            "strength": 0.2
+          },
+          {
+            "period": 32,
+            "strength": 0.211
+          },
+          {
+            "period": 32,
+            "strength": 0.241
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 119.8,
+          "power": 1498.7,
+          "relative_power": 1.0
+        },
+        {
+          "period": 53.2,
+          "power": 932.5,
+          "relative_power": 0.622
+        },
+        {
+          "period": 68.4,
+          "power": 328.9,
+          "relative_power": 0.219
+        }
+      ]
+    },
+    "consensus_period": 95.7,
+    "confidence": 1.0,
+    "cycle_stability": 0.296,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.018,
+    "next_buy_estimate": "约9个交易日后"
+  },
+  "煤炭": {
+    "methods": {
+      "acf": [
+        {
+          "period": 146.4,
+          "acf_value": 0.2274,
+          "confidence": 2.54,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 146.4,
+        "acf_value": 0.2274,
+        "confidence": 2.54,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 99.4,
+          "power": 926.0,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 99.4,
+        "power": 926.0,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 39.1,
+        "std_period": 21.1,
+        "stability": 0.461,
+        "history": [
+          {
+            "period": 58,
+            "strength": 0.303
+          },
+          {
+            "period": 15,
+            "strength": 0.217
+          },
+          {
+            "period": 15,
+            "strength": 0.281
+          },
+          {
+            "period": 15,
+            "strength": 0.305
+          },
+          {
+            "period": 15,
+            "strength": 0.279
+          },
+          {
+            "period": 72,
+            "strength": 0.215
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 80.0,
+          "power": 1854.8,
+          "relative_power": 1.0
+        },
+        {
+          "period": 160.0,
+          "power": 1475.6,
+          "relative_power": 0.796
+        },
+        {
+          "period": 48.0,
+          "power": 1134.8,
+          "relative_power": 0.612
+        }
+      ]
+    },
+    "consensus_period": 126.9,
+    "confidence": 1.0,
+    "cycle_stability": 0.461,
+    "current_phase": "上升中",
+    "phase_progress": 50,
+    "method_agreement": 0.0,
+    "next_sell_estimate": "约63个交易日后"
+  },
+  "电池": {
+    "methods": {
+      "acf": [
+        {
+          "period": 142.0,
+          "acf_value": 0.1147,
+          "confidence": 1.28,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 142.0,
+        "acf_value": 0.1147,
+        "confidence": 1.28,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 78.8,
+          "power": 2049.0,
+          "relative_power": 1.0
+        },
+        {
+          "period": 13.3,
+          "power": 274.0,
+          "relative_power": 0.134
+        }
+      ],
+      "burg_primary": {
+        "period": 78.8,
+        "power": 2049.0,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 33.0,
+        "std_period": 22.3,
+        "stability": 0.324,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.31
+          },
+          {
+            "period": 15,
+            "strength": 0.379
+          },
+          {
+            "period": 15,
+            "strength": 0.277
+          },
+          {
+            "period": 45,
+            "strength": 0.303
+          },
+          {
+            "period": 69,
+            "strength": 0.218
+          },
+          {
+            "period": 68,
+            "strength": 0.301
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 119.8,
+          "power": 4219.8,
+          "relative_power": 1.0
+        },
+        {
+          "period": 239.5,
+          "power": 3499.7,
+          "relative_power": 0.829
+        },
+        {
+          "period": 79.8,
+          "power": 2994.9,
+          "relative_power": 0.71
+        }
+      ]
+    },
+    "consensus_period": 109.2,
+    "confidence": 0.943,
+    "cycle_stability": 0.324,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.0,
+    "next_buy_estimate": "约10个交易日后"
+  },
+  "白酒": {
+    "methods": {
+      "acf": [
+        {
+          "period": 103.6,
+          "acf_value": 0.2328,
+          "confidence": 2.6,
+          "significant": true
+        },
+        {
+          "period": 92.3,
+          "acf_value": 0.1958,
+          "confidence": 2.19,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 103.6,
+        "acf_value": 0.2328,
+        "confidence": 2.6,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 116.0,
+          "power": 1177.6,
+          "relative_power": 1.0
+        },
+        {
+          "period": 13.1,
+          "power": 223.6,
+          "relative_power": 0.19
+        }
+      ],
+      "burg_primary": {
+        "period": 116.0,
+        "power": 1177.6,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 33.2,
+        "std_period": 23.0,
+        "stability": 0.309,
+        "history": [
+          {
+            "period": 49,
+            "strength": 0.26
+          },
+          {
+            "period": 46,
+            "strength": 0.243
+          },
+          {
+            "period": 56,
+            "strength": 0.38
+          },
+          {
+            "period": 55,
+            "strength": 0.342
+          },
+          {
+            "period": 53,
+            "strength": 0.27
+          },
+          {
+            "period": 48,
+            "strength": 0.272
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 96.0,
+          "power": 2442.5,
+          "relative_power": 1.0
+        },
+        {
+          "period": 240.0,
+          "power": 1074.2,
+          "relative_power": 0.44
+        },
+        {
+          "period": 53.3,
+          "power": 1007.3,
+          "relative_power": 0.412
+        }
+      ]
+    },
+    "consensus_period": 102.9,
+    "confidence": 1.0,
+    "cycle_stability": 0.309,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.017,
+    "next_buy_estimate": "约10个交易日后"
+  },
+  "科创50": {
+    "methods": {
+      "acf": [
+        {
+          "period": 82.3,
+          "acf_value": 0.116,
+          "confidence": 1.3,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 82.3,
+        "acf_value": 0.116,
+        "confidence": 1.3,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 66.8,
+          "power": 3835.9,
+          "relative_power": 1.0
+        },
+        {
+          "period": 12.7,
+          "power": 385.4,
+          "relative_power": 0.1
+        }
+      ],
+      "burg_primary": {
+        "period": 66.8,
+        "power": 3835.9,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 23.3,
+        "std_period": 18.6,
+        "stability": 0.201,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.464
+          },
+          {
+            "period": 15,
+            "strength": 0.326
+          },
+          {
+            "period": 65,
+            "strength": 0.319
+          },
+          {
+            "period": 15,
+            "strength": 0.222
+          },
+          {
+            "period": 65,
+            "strength": 0.302
+          },
+          {
+            "period": 15,
+            "strength": 0.283
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 96.0,
+          "power": 6980.1,
+          "relative_power": 1.0
+        },
+        {
+          "period": 240.0,
+          "power": 2707.6,
+          "relative_power": 0.388
+        },
+        {
+          "period": 48.0,
+          "power": 2175.8,
+          "relative_power": 0.312
+        }
+      ]
+    },
+    "consensus_period": 73.2,
+    "confidence": 0.92,
+    "cycle_stability": 0.201,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.0,
+    "next_sell_estimate": "约54个交易日后"
+  },
+  "科技": {
+    "methods": {
+      "acf": [
+        {
+          "period": 81.6,
+          "acf_value": 0.1002,
+          "confidence": 1.12,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 81.6,
+        "acf_value": 0.1002,
+        "confidence": 1.12,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 89.4,
+          "power": 2512.6,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 89.4,
+        "power": 2512.6,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 27.6,
+        "std_period": 21.9,
+        "stability": 0.207,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.396
+          },
+          {
+            "period": 15,
+            "strength": 0.208
+          },
+          {
+            "period": 65,
+            "strength": 0.278
+          },
+          {
+            "period": 15,
+            "strength": 0.236
+          },
+          {
+            "period": 76,
+            "strength": 0.21
+          },
+          {
+            "period": 15,
+            "strength": 0.432
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 95.8,
+          "power": 4584.0,
+          "relative_power": 1.0
+        },
+        {
+          "period": 159.7,
+          "power": 2622.1,
+          "relative_power": 0.572
+        },
+        {
+          "period": 47.9,
+          "power": 1143.7,
+          "relative_power": 0.249
+        }
+      ]
+    },
+    "consensus_period": 81.5,
+    "confidence": 0.85,
+    "cycle_stability": 0.207,
+    "current_phase": "上升中",
+    "phase_progress": 50,
+    "method_agreement": 0.066,
+    "next_sell_estimate": "约40个交易日后"
+  },
+  "红利": {
+    "methods": {
+      "acf": [
+        {
+          "period": 146.2,
+          "acf_value": 0.1748,
+          "confidence": 1.95,
+          "significant": true
+        },
+        {
+          "period": 139.2,
+          "acf_value": 0.1175,
+          "confidence": 1.31,
+          "significant": true
+        },
+        {
+          "period": 137.4,
+          "acf_value": 0.1146,
+          "confidence": 1.28,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 146.2,
+        "acf_value": 0.1748,
+        "confidence": 1.95,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 43.9,
+          "power": 288.9,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 43.9,
+        "power": 288.9,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 48.2,
+        "std_period": 18.6,
+        "stability": 0.613,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.268
+          },
+          {
+            "period": 70,
+            "strength": 0.214
+          },
+          {
+            "period": 69,
+            "strength": 0.214
+          },
+          {
+            "period": 57,
+            "strength": 0.214
+          },
+          {
+            "period": 55,
+            "strength": 0.334
+          },
+          {
+            "period": 71,
+            "strength": 0.206
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 36.8,
+          "power": 478.4,
+          "relative_power": 1.0
+        },
+        {
+          "period": 79.8,
+          "power": 456.4,
+          "relative_power": 0.954
+        },
+        {
+          "period": 159.7,
+          "power": 451.0,
+          "relative_power": 0.943
+        }
+      ]
+    },
+    "consensus_period": 106.6,
+    "confidence": 1.0,
+    "cycle_stability": 0.613,
+    "current_phase": "顶部下降",
+    "phase_progress": 75,
+    "method_agreement": 0.0,
+    "next_buy_estimate": "约26个交易日后"
+  },
+  "纳斯达克": {
+    "methods": {
+      "acf": [
+        {
+          "period": 117.4,
+          "acf_value": 0.1173,
+          "confidence": 1.31,
+          "significant": true
+        },
+        {
+          "period": 118.5,
+          "acf_value": 0.1167,
+          "confidence": 1.31,
+          "significant": true
+        },
+        {
+          "period": 142.0,
+          "acf_value": 0.1141,
+          "confidence": 1.28,
+          "significant": true
+        },
+        {
+          "period": 138.1,
+          "acf_value": 0.1048,
+          "confidence": 1.17,
+          "significant": true
+        },
+        {
+          "period": 132.4,
+          "acf_value": 0.0995,
+          "confidence": 1.11,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 117.4,
+        "acf_value": 0.1173,
+        "confidence": 1.31,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 171.4,
+          "power": 807.6,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 171.4,
+        "power": 807.6,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 22.4,
+        "std_period": 20.7,
+        "stability": 0.075,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.336
+          },
+          {
+            "period": 15,
+            "strength": 0.34
+          },
+          {
+            "period": 90,
+            "strength": 0.243
+          },
+          {
+            "period": 15,
+            "strength": 0.289
+          },
+          {
+            "period": 15,
+            "strength": 0.344
+          },
+          {
+            "period": 15,
+            "strength": 0.498
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 120.0,
+          "power": 3042.2,
+          "relative_power": 1.0
+        },
+        {
+          "period": 240.0,
+          "power": 1014.8,
+          "relative_power": 0.334
+        },
+        {
+          "period": 80.0,
+          "power": 721.8,
+          "relative_power": 0.237
+        }
+      ]
+    },
+    "consensus_period": 136.6,
+    "confidence": 0.893,
+    "cycle_stability": 0.075,
+    "current_phase": "上升中",
+    "phase_progress": 50,
+    "method_agreement": 0.0,
+    "next_sell_estimate": "约68个交易日后"
+  },
+  "航天": {
+    "methods": {
+      "burg": [
+        {
+          "period": 13.1,
+          "power": 161.2,
+          "relative_power": 0.195
+        }
+      ],
+      "burg_primary": {
+        "period": 13.1,
+        "power": 161.2,
+        "relative_power": 0.195
+      },
+      "time_varying": {
+        "avg_period": 46.4,
+        "std_period": 21.4,
+        "stability": 0.54,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.466
+          },
+          {
+            "period": 15,
+            "strength": 0.249
+          },
+          {
+            "period": 78,
+            "strength": 0.245
+          },
+          {
+            "period": 62,
+            "strength": 0.238
+          },
+          {
+            "period": 63,
+            "strength": 0.3
+          },
+          {
+            "period": 61,
+            "strength": 0.323
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 159.7,
+          "power": 1554.3,
+          "relative_power": 1.0
+        },
+        {
+          "period": 95.8,
+          "power": 1138.5,
+          "relative_power": 0.732
+        },
+        {
+          "period": 53.2,
+          "power": 667.5,
+          "relative_power": 0.429
+        }
+      ]
+    },
+    "consensus_period": 35.2,
+    "confidence": 0.203,
+    "cycle_stability": 0.54,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.0,
+    "next_buy_estimate": "约3个交易日后"
+  },
+  "芯片": {
+    "methods": {
+      "acf": [
+        {
+          "period": 81.0,
+          "acf_value": 0.1763,
+          "confidence": 1.97,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 81.0,
+        "acf_value": 0.1763,
+        "confidence": 1.97,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 70.0,
+          "power": 5436.3,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 70.0,
+        "power": 5436.3,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 27.2,
+        "std_period": 20.9,
+        "stability": 0.231,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.304
+          },
+          {
+            "period": 65,
+            "strength": 0.32
+          },
+          {
+            "period": 15,
+            "strength": 0.277
+          },
+          {
+            "period": 15,
+            "strength": 0.231
+          },
+          {
+            "period": 66,
+            "strength": 0.264
+          },
+          {
+            "period": 15,
+            "strength": 0.312
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 95.8,
+          "power": 9553.2,
+          "relative_power": 1.0
+        },
+        {
+          "period": 239.5,
+          "power": 2864.3,
+          "relative_power": 0.3
+        },
+        {
+          "period": 59.9,
+          "power": 2848.2,
+          "relative_power": 0.298
+        }
+      ]
+    },
+    "consensus_period": 75.2,
+    "confidence": 1.0,
+    "cycle_stability": 0.231,
+    "current_phase": "上升中",
+    "phase_progress": 50,
+    "method_agreement": 0.094,
+    "next_sell_estimate": "约37个交易日后"
+  },
+  "计算机": {
+    "methods": {
+      "acf": [
+        {
+          "period": 82.2,
+          "acf_value": 0.1231,
+          "confidence": 1.38,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 82.2,
+        "acf_value": 0.1231,
+        "confidence": 1.38,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 69.9,
+          "power": 3319.3,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 69.9,
+        "power": 3319.3,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 27.7,
+        "std_period": 21.1,
+        "stability": 0.236,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.257
+          },
+          {
+            "period": 15,
+            "strength": 0.284
+          },
+          {
+            "period": 15,
+            "strength": 0.442
+          },
+          {
+            "period": 15,
+            "strength": 0.251
+          },
+          {
+            "period": 65,
+            "strength": 0.37
+          },
+          {
+            "period": 65,
+            "strength": 0.278
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 96.0,
+          "power": 6152.5,
+          "relative_power": 1.0
+        },
+        {
+          "period": 160.0,
+          "power": 3680.9,
+          "relative_power": 0.598
+        },
+        {
+          "period": 60.0,
+          "power": 3192.0,
+          "relative_power": 0.519
+        }
+      ]
+    },
+    "consensus_period": 74.4,
+    "confidence": 0.961,
+    "cycle_stability": 0.236,
+    "current_phase": "底部上升",
+    "phase_progress": 25,
+    "method_agreement": 0.091,
+    "next_sell_estimate": "约55个交易日后"
+  },
+  "证券": {
+    "methods": {
+      "time_varying": {
+        "avg_period": 41.0,
+        "std_period": 22.6,
+        "stability": 0.448,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.299
+          },
+          {
+            "period": 40,
+            "strength": 0.225
+          },
+          {
+            "period": 43,
+            "strength": 0.327
+          },
+          {
+            "period": 50,
+            "strength": 0.296
+          },
+          {
+            "period": 76,
+            "strength": 0.226
+          },
+          {
+            "period": 73,
+            "strength": 0.236
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 95.8,
+          "power": 4212.0,
+          "relative_power": 1.0
+        },
+        {
+          "period": 159.7,
+          "power": 3578.4,
+          "relative_power": 0.85
+        },
+        {
+          "period": 47.9,
+          "power": 1439.9,
+          "relative_power": 0.342
+        }
+      ]
+    },
+    "consensus_period": 41.0,
+    "confidence": 0.112,
+    "cycle_stability": 0.448,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "next_buy_estimate": "约4个交易日后"
+  },
+  "通信": {
+    "methods": {
+      "time_varying": {
+        "avg_period": 27.8,
+        "std_period": 22.3,
+        "stability": 0.197,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.343
+          },
+          {
+            "period": 15,
+            "strength": 0.348
+          },
+          {
+            "period": 15,
+            "strength": 0.215
+          },
+          {
+            "period": 66,
+            "strength": 0.258
+          },
+          {
+            "period": 74,
+            "strength": 0.26
+          },
+          {
+            "period": 15,
+            "strength": 0.33
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 240.0,
+          "power": 6461.6,
+          "relative_power": 1.0
+        },
+        {
+          "period": 96.0,
+          "power": 5400.9,
+          "relative_power": 0.836
+        },
+        {
+          "period": 68.6,
+          "power": 4034.0,
+          "relative_power": 0.624
+        }
+      ]
+    },
+    "consensus_period": 27.8,
+    "confidence": 0.049,
+    "cycle_stability": 0.197,
+    "current_phase": "顶部下降",
+    "phase_progress": 75,
+    "next_buy_estimate": "约6个交易日后"
+  },
+  "钢铁": {
+    "methods": {
+      "acf": [
+        {
+          "period": 101.5,
+          "acf_value": 0.1039,
+          "confidence": 1.16,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 101.5,
+        "acf_value": 0.1039,
+        "confidence": 1.16,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 66.5,
+          "power": 1258.6,
+          "relative_power": 1.0
+        }
+      ],
+      "burg_primary": {
+        "period": 66.5,
+        "power": 1258.6,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 50.7,
+        "std_period": 18.2,
+        "stability": 0.641,
+        "history": [
+          {
+            "period": 61,
+            "strength": 0.286
+          },
+          {
+            "period": 52,
+            "strength": 0.279
+          },
+          {
+            "period": 51,
+            "strength": 0.365
+          },
+          {
+            "period": 64,
+            "strength": 0.259
+          },
+          {
+            "period": 72,
+            "strength": 0.216
+          },
+          {
+            "period": 35,
+            "strength": 0.208
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 160.0,
+          "power": 1898.0,
+          "relative_power": 1.0
+        },
+        {
+          "period": 80.0,
+          "power": 1864.8,
+          "relative_power": 0.983
+        },
+        {
+          "period": 48.0,
+          "power": 1792.5,
+          "relative_power": 0.944
+        }
+      ]
+    },
+    "consensus_period": 80.6,
+    "confidence": 0.974,
+    "cycle_stability": 0.641,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.303,
+    "next_buy_estimate": "约8个交易日后"
+  },
+  "银行": {
+    "methods": {
+      "acf": [
+        {
+          "period": 98.9,
+          "acf_value": 0.1371,
+          "confidence": 1.53,
+          "significant": true
+        },
+        {
+          "period": 104.6,
+          "acf_value": 0.1369,
+          "confidence": 1.53,
+          "significant": true
+        },
+        {
+          "period": 97.3,
+          "acf_value": 0.1348,
+          "confidence": 1.51,
+          "significant": true
+        },
+        {
+          "period": 101.0,
+          "acf_value": 0.1329,
+          "confidence": 1.49,
+          "significant": true
+        },
+        {
+          "period": 95.5,
+          "acf_value": 0.1291,
+          "confidence": 1.44,
+          "significant": true
+        }
+      ],
+      "acf_primary": {
+        "period": 98.9,
+        "acf_value": 0.1371,
+        "confidence": 1.53,
+        "significant": true
+      },
+      "burg": [
+        {
+          "period": 38.6,
+          "power": 301.4,
+          "relative_power": 1.0
+        },
+        {
+          "period": 84.8,
+          "power": 282.0,
+          "relative_power": 0.936
+        }
+      ],
+      "burg_primary": {
+        "period": 38.6,
+        "power": 301.4,
+        "relative_power": 1.0
+      },
+      "time_varying": {
+        "avg_period": 39.0,
+        "std_period": 30.1,
+        "stability": 0.229,
+        "history": [
+          {
+            "period": 15,
+            "strength": 0.198
+          },
+          {
+            "period": 15,
+            "strength": 0.386
+          },
+          {
+            "period": 15,
+            "strength": 0.451
+          },
+          {
+            "period": 80,
+            "strength": 0.199
+          },
+          {
+            "period": 15,
+            "strength": 0.212
+          },
+          {
+            "period": 73,
+            "strength": 0.213
+          }
+        ]
+      },
+      "fft": [
+        {
+          "period": 96.0,
+          "power": 435.3,
+          "relative_power": 1.0
+        },
+        {
+          "period": 43.6,
+          "power": 403.1,
+          "relative_power": 0.926
+        },
+        {
+          "period": 53.3,
+          "power": 345.3,
+          "relative_power": 0.793
+        }
+      ]
+    },
+    "consensus_period": 74.8,
+    "confidence": 1.0,
+    "cycle_stability": 0.229,
+    "current_phase": "下降中",
+    "phase_progress": 90,
+    "method_agreement": 0.0,
+    "next_buy_estimate": "约7个交易日后"
+  }
+}

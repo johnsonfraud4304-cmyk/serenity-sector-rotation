@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 运行时产物
+etf_cache/
+etf_cache_bak/
+*.log
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Android
+android_app/local.properties
+android_app/.gradle/
+android_app/**/build/
